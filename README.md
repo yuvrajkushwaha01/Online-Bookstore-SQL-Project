@@ -30,7 +30,7 @@ The database contains 3 tables:
 
 ## 🗄️ Dataset
 
-Sample data is provided in the `/data` folder:  
+Sample data is provided in the `/Respiratory folder:  
 
 - `books_200.csv`  
 - `customers_200.csv`  
