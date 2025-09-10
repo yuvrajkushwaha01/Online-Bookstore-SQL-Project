@@ -10,7 +10,7 @@ It includes database schema (DDL), sample datasets, and SQL queries for analysis
 Online-Bookstore-SQL-Project/
 │── queries.sql # Contains both schema (DDL) + SQL queries
 │── README.md # Project documentation
-│── data/ # Folder containing CSV datasets
+│── # containing CSV datasets
 │── books_200.csv
 │── customers_200.csv
 │── orders_200.csv
